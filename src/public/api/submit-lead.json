@@ -1,0 +1,10 @@
+{
+  "success": true,
+  "message": "Development mode - Lead captured successfully",
+  "notifications": {
+    "email": true,
+    "sms": true,
+    "stored": false
+  },
+  "timestamp": "2024-12-24T12:00:00Z"
+}
